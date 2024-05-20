@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCred", "QCred\QCred.csproj", "{87771B5C-CFB5-49DD-9467-2492CFDC6986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCred.Unit.Tests", "QCred.Unit.Tests\QCred.Unit.Tests.csproj", "{74F602B7-CD16-4877-BF55-F6D7297D1102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87771B5C-CFB5-49DD-9467-2492CFDC6986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87771B5C-CFB5-49DD-9467-2492CFDC6986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87771B5C-CFB5-49DD-9467-2492CFDC6986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87771B5C-CFB5-49DD-9467-2492CFDC6986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F602B7-CD16-4877-BF55-F6D7297D1102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F602B7-CD16-4877-BF55-F6D7297D1102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F602B7-CD16-4877-BF55-F6D7297D1102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F602B7-CD16-4877-BF55-F6D7297D1102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A48B15-7A20-443B-84C1-1E085C9BCDDD}
+	EndGlobalSection
+EndGlobal

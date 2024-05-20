@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QCred/obj/
+/QCred/bin/
+/QCred.Unit.Tests/bin/
+/QCred.Unit.Tests/obj/
+/QCred/QCred.csproj.user
